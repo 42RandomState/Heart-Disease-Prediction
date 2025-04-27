@@ -1,2 +1,3 @@
-# F1: 1.0, Heart Disease Prediction
-I trained a model to predict heart disease with quite good results, if you are interested watch the code. Thank you!!
+# Heart Disease Prediction
+I trained a machine learning model to predict heart disease with excellent results (F1 score of 1.0).
+If you're interested, feel free to explore the code. Thank you for visiting!
